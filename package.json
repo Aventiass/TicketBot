@@ -1,0 +1,27 @@
+{
+  "name": "TicketBot",
+  "version": "0.0.0",
+  "description": "Aventia tarafından yapılmıştır. ",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "fs": "^0.0.1-security",
+    "minecraft-server-util": "^5.2.9",
+    "mongoose": "^6.1.4"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
